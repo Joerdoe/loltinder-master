@@ -2,6 +2,7 @@
 
 
 Dit betreft de Nederlandse versie van LolTinder.
+
 (onderstaande tekst is tevens vertaald)
 
 Ik maakte dit scriptje, omdat ik moe werd van het swipen -- het is gemakkelijker om na de tijd pas te bepalen wie je echt leuk vindt. Mijn eerste experiment was erg vermoeiend, want ik had negen dates achter elkaar.
