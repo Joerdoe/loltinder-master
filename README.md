@@ -1,13 +1,17 @@
 # loltinder
 
 
-I created this because I got tired of swiping -- it's easier to sort out later who you like. My initial experiment exhausted me from 9 dates in a row.
+Dit betreft de Nederlandse versie van LolTinder.
+(onderstaande tekst is tevens vertaald)
+
+Ik maakte dit scriptje, omdat ik moe werd van het swipen -- het is gemakkelijker om na de tijd pas te bepalen wie je echt leuk vindt. Mijn eerste experiment was erg vermoeiend, want ik had negen dates achter elkaar.
 
 ## Motivation
 
-I really just love meeting up with girls and reading bibles together. It's so peaceful and sweet. Sex? Ew.
+Ik vind het gewoon echt heel erg leuk om met vrouwen af te spreken en dan samen de bijbel te lezen. Het is zo vredig en lief. Seks?! Bah.
 
-## Installation
+
+## Installatie
 
 * Install node
 * Clone this repo
